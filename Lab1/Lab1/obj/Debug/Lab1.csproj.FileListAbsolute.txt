@@ -1,5 +1,0 @@
-Z:\University\MaranLab\Lab1\Lab1\bin\Debug\Lab1.exe
-Z:\University\MaranLab\Lab1\Lab1\bin\Debug\Lab1.pdb
-Z:\University\MaranLab\Lab1\Lab1\obj\Debug\ResolveAssemblyReference.cache
-Z:\University\MaranLab\Lab1\Lab1\obj\Debug\Lab1.exe
-Z:\University\MaranLab\Lab1\Lab1\obj\Debug\Lab1.pdb
