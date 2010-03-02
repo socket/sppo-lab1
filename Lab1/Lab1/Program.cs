@@ -1,9 +1,15 @@
-﻿namespace Lab1 {
+﻿using System;
+
+namespace Lab1 {
   internal class Program {
+    public static LabTask Task = new LabTask23();
+    
     private static void Main(string[] args) {
-      Matrix test = new Matrix(10,10);
-      test[5, 5] = 10;
-      
+      Console.WriteLine("Lab1.{0}", Task.Id);
+      Console.WriteLine("{0}, A-13-07\n", Task.Author);
+      Task.Do();
+
+      Console.ReadLine();
     }
   }
 }

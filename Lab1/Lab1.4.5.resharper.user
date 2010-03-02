@@ -3,6 +3,7 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
@@ -11,11 +12,138 @@
   </NAntValidationSettings>
   <RecentFiles>
     <RecentFiles>
-      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="911" fromTop="37" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="377" fromTop="15" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="897" fromTop="33" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="3169" fromTop="11" />
+      <File id="d:&amp;/f:LabTask.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask.cs" caret="136" fromTop="5" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Program.cs" caret="333" fromTop="15" />
     </RecentFiles>
-    <RecentEdits />
+    <RecentEdits>
+      <File id="d:&amp;/f:LabTask.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask.cs" caret="175" fromTop="9" />
+      <File id="d:&amp;/f:LabTask.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask.cs" caret="0" fromTop="0" />
+      <File id="d:&amp;/f:LabTask.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask.cs" caret="135" fromTop="5" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="345" fromTop="19" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Program.cs" caret="253" fromTop="8" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="1145" fromTop="37" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="729" fromTop="21" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="1846" fromTop="10" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="947" fromTop="28" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="3605" fromTop="26" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="4190" fromTop="25" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="3451" fromTop="72" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="204" fromTop="10" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="317" fromTop="14" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="370" fromTop="18" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="93" fromTop="4" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="101" fromTop="5" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="3162" fromTop="21" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="813" fromTop="29" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="2312" fromTop="31" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="2005" fromTop="18" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="2005" fromTop="1" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="1227" fromTop="22" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="572" fromTop="6" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Matrix.cs" caret="2256" fromTop="11" />
+      <File id="d:&amp;/f:LabTask23.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask23.cs" caret="1110" fromTop="25" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="116" fromTop="3" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="305" fromTop="10" />
+      <File id="d:&amp;/f:LabTask6.cs/l:Z!?University?MaranLab?Lab1?Lab1?LabTask6.cs" caret="474" fromTop="19" />
+      <File id="02B49FC2-8F42-4E26-ABE1-39C3EB44C9B6/f:Program.cs" caret="109" fromTop="4" />
+    </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
     <Providers />
   </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="9" />
+      <Item value="void" priority="4" />
+      <Item value="Console" priority="17" />
+      <Item value="Rows" priority="5" />
+      <Item value="Columns" priority="5" />
+      <Item value="for" priority="10" />
+      <Item value="int" priority="20" />
+      <Item value="i" priority="15" />
+      <Item value="try" priority="0" />
+      <Item value="line" priority="1" />
+      <Item value="foreach" priority="1" />
+      <Item value="static" priority="2" />
+      <Item value="m" priority="15" />
+      <Item value="s" priority="0" />
+      <Item value="Int32" priority="3" />
+      <Item value="Double" priority="0" />
+      <Item value="string" priority="6" />
+      <Item value="dimensionLine" priority="1" />
+      <Item value="rows" priority="2" />
+      <Item value="dimsArray" priority="1" />
+      <Item value="columns" priority="2" />
+      <Item value="new" priority="4" />
+      <Item value="Matrix" priority="9" />
+      <Item value="if" priority="8" />
+      <Item value="return" priority="7" />
+      <Item value="throw" priority="0" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="String" priority="0" />
+      <Item value="rowStr" priority="0" />
+      <Item value="_data" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="infoStr" priority="2" />
+      <Item value="abstract" priority="3" />
+      <Item value="LabTask" priority="2" />
+      <Item value="override" priority="0" />
+      <Item value="LabTask6" priority="0" />
+      <Item value="_task" priority="2" />
+      <Item value="Do" priority="1" />
+      <Item value="else" priority="1" />
+      <Item value="count" priority="3" />
+      <Item value="double" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="element" priority="0" />
+      <Item value="maxCount" priority="2" />
+      <Item value="colId" priority="1" />
+      <Item value="col" priority="3" />
+      <Item value="row" priority="1" />
+      <Item value="continue" priority="0" />
+      <Item value="rm" priority="1" />
+      <Item value="tm" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="12" />
+      <Item value="Write" priority="1" />
+      <Item value="ReadLine" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lab1.LabTask">
+      <Item value="Id" priority="0" />
+      <Item value="Author" priority="0" />
+      <Item value="Do" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Lab1.Matrix">
+      <Item value="ReadFromConsole" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Lab1.Matrix">
+      <Item value="IsSquare" priority="0" />
+      <Item value="IsTriangle" priority="0" />
+      <Item value="MeanValue" priority="0" />
+      <Item value="Rows" priority="2" />
+      <Item value="Columns" priority="0" />
+      <Item value="Transpose" priority="1" />
+      <Item value="RemoveColumn" priority="0" />
+      <Item value="RemoveRow" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
